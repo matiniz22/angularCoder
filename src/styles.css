@@ -1,0 +1,12 @@
+:root{
+    --header-height : 60px;
+    --sidebar-width: 200px;
+}
+
+body{
+    margin: 0;
+}
+
+*{
+    box-sizing: border-box;
+}
